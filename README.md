@@ -1,0 +1,2 @@
+# python_ranking_visualization_based_on_pygame
+通过pygame实现的历史排名可视化框架，可以根据数据源将排名信息转化为动态的柱状图信息。
